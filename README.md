@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @vaibhavv-sharma
-- 👀 I’m interested in Chess, Girls.
-- 🌱 I’m currently learning Flutter.
+- 👋 Hi, I’m @vaibhavv-sharma, working at SRI-Noida.
 - 💞️ I’m looking to collaborate on Mobile Applications
 - 📫 How to reach me- Just mail me at svaibhav4272@gmail.com
 
